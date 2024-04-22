@@ -22,7 +22,6 @@
 	pkgs.qt6Packages.qtstyleplugin-kvantum
     	pkgs.kitty
     	pkgs.volantes-cursors
-    	pkgs.bibata-cursors
     	pkgs.pavucontrol
     	pkgs.pyprland
 	pkgs.mako
