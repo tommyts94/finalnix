@@ -18,11 +18,12 @@
    	pkgs.roboto-mono
    	pkgs.atool
    	pkgs.unzip
-    pkgs.kitty
-    pkgs.volantes-cursors
-    pkgs.bibata-cursors
-    pkgs.pavucontrol
-    pkgs.numix-cursor-theme
+    	pkgs.kitty
+    	pkgs.volantes-cursors
+    	pkgs.bibata-cursors
+    	pkgs.pavucontrol
+    	pkgs.pyprland
+	pkgs.mako
 	pkgs.wofi
 	pkgs.lutris
 	pkgs.bottles
