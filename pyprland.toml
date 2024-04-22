@@ -1,0 +1,36 @@
+[pyprland]
+plugins = [
+  "shortcuts_menu",
+  "toggle_special",
+  "scratchpads",
+  "layout_center",
+  "lost_windows",
+  "monitors",
+  "toggle_special",
+  "shift_monitors",
+  "toggle_dpms",
+  "magnify",
+  "expose",
+  "shift_monitors",
+  "workspaces_follow_focus",
+  "fetch_client_menu"
+]
+
+[workspaces_follow_focus]
+max_workspaces = 9
+
+[scratchpads.term]
+animation = "fromTop"
+command = "kitty --class kitty-dropterm"
+class = "kitty-dropterm"
+size = "75% 60%"
+max_size = "1920px 100%"
+
+[scratchpads.volume]
+animation = "fromRight"
+command = "pavucontrol"
+class = "pavucontrol"
+lazy = true
+size = "40% 90%"
+max_size = "1080px 100%"
+unfocus = "hide"
