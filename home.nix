@@ -18,6 +18,8 @@
    	pkgs.roboto-mono
    	pkgs.atool
    	pkgs.unzip
+	pkgs.qt6Packages.qt6ct
+	pkgs.qt6Packages.qtstyleplugin-kvantum
     	pkgs.kitty
     	pkgs.volantes-cursors
     	pkgs.bibata-cursors
