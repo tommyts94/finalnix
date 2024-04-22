@@ -65,6 +65,7 @@
     exec-once = [
     	"hyprpaper"
     	"mako"
+	"hypridle"
     	"pasystray"
     	"nm-applet"
     	"systemctl --user start polkit-gnome-authentication-agent-1.service"
