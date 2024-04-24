@@ -3,7 +3,7 @@
     // "position": "bottom", // Waybar position (top|bottom|left|right)
     "height": 24, // Waybar height (to be removed for auto height)
    // "width": 1000, // Waybar width
-    "spacing": 4, // Gaps between modules (4px)
+    "spacing": 6, // Gaps between modules (4px)
     // Choose the order of the modules
   // "margin-top": 2,
     "modules-left": [ "hyprland/workspaces", "hyprland/mode"],
@@ -17,13 +17,13 @@
          "all-outputs": true,
          "format": "{icon}",
          "format-icons": {
-             "1": "",
-             "2": "",
-             "3": "",
-             "4": "",
-             "5": "",
-             "urgent": "",
-             "focused": "",
+             "1": "1",
+             "2": "2",
+             "3": "3",
+             "4": "4",
+             "5": "5",
+             "urgent": "",
+             "focused": "",
              "default": "",
             
          }
