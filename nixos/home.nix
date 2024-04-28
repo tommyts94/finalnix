@@ -60,7 +60,7 @@
     programs.kitty.extraConfig = "background_opacity 0.2";
 	programs.waybar = {
 		enable = true;
-		systemd.enable = true;
+		systemd.enable = false;
 		package = pkgs.waybar;
 	};
        home.stateVersion = "23.11";
