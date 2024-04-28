@@ -58,11 +58,11 @@
     programs.kitty.enable = true;
     programs.kitty.theme = "Catppuccin-Macchiato";
     programs.kitty.extraConfig = "background_opacity 0.2";
-	programs.waybar = {
-		enable = true;
-		systemd.enable = false;
-		package = pkgs.waybar;
-	};
+	#programs.waybar = {
+	#	enable = true;
+	#	systemd.enable = false;
+	#	package = pkgs.waybar;
+	#};
        home.stateVersion = "23.11";
        programs.home-manager.enable = true;
 }
