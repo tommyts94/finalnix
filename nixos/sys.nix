@@ -1,6 +1,6 @@
 { inputs, pkgs, config, ...}:
 {  
-   boot.kernelPackages = pkgs.linuxPackages_cachyos;
+   boot.kernelPackages = pkgs.linuxPackages_latest;
 
    xdg.portal.enable = true;
    xdg.portal.extraPortals = [pkgs.xdg-desktop-portal-gtk];
