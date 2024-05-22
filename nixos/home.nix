@@ -32,6 +32,7 @@
     	pkgs.hypridle
     	pkgs.hyprlock
     	pkgs.hyprpaper
+	pkgs.grimblast
 	pkgs.telegram-desktop
 	pkgs.discord
 	pkgs.mako
