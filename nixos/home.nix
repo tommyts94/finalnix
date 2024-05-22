@@ -25,13 +25,15 @@
    	pkgs.unzip
 	pkgs.qt6Packages.qt6ct
 	pkgs.qt6Packages.qtstyleplugin-kvantum
-    pkgs.kitty
-    pkgs.volantes-cursors
-    pkgs.pavucontrol
-    pkgs.pyprland
-    pkgs.hypridle
-    pkgs.hyprlock
-    pkgs.hyprpaper
+    	pkgs.kitty
+    	pkgs.volantes-cursors
+    	pkgs.pavucontrol
+    	pkgs.pyprland
+    	pkgs.hypridle
+    	pkgs.hyprlock
+    	pkgs.hyprpaper
+	pkgs.telegram-desktop
+	pkgs.discord
 	pkgs.mako
 	pkgs.wofi
 	pkgs.lutris
